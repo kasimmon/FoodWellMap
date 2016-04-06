@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Placemark>
+<name>Alpharetta Community Garden</name>
+<description>11925 Wills Road Alpharetta 30009</description>
+<Point><coordinates>-84.30959344,34.06962529,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Dunwoody Community Garden and Orchard</name>
+<description>4770 North Peachtree Road Dunwoody 30338</description>
+<Point><coordinates>-84.29450082,33.9352048,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Gathegu&#39;s City Shamba (The Giving Garden and Center for Sustainable Living)</name>
+<description>635 Holderness Street Southwest Atlanta 30310</description>
+<Point><coordinates>-84.42820376,33.73780278,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Gathegu&#39;s City Shamba (The Giving Garden and Center for Sustainable Living) Site 2</name>
+<description>1576 Temple Avenue Fulton 30337</description>
+<Point><coordinates>-84.44054996,33.65536293,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Gilliam&#39;s Community Garden</name>
+<description>1286 Oakland Terrace Atlanta 30310</description>
+<Point><coordinates>-84.42892186,33.72099035,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>memorial drive presbyterian church community garden</name>
+<description>5140 Memorial Drive stone mountain 30083</description>
+<Point><coordinates>-84.22529785,33.79612688,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>mena&#39;s farm</name>
+<description>544 Elmwood Rd atlanta 30318</description>
+<Point><coordinates>-84.36933046,33.78542082,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Historic Mableton Community Garden</name>
+<description>5178 Floyd Road Mableton 30126</description>
+<Point><coordinates>-84.57588413,33.82894066,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Your Faith Farms</name>
+<description>7555 Jones Road Fairburn 30213</description>
+<Point><coordinates>-84.594233,33.577678,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Cinnamon City Farms</name>
+<description>1490 Joseph E. Boone Boulevard Atlanta 30314</description>
+<Point><coordinates>-84.436665,33.76335698,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Darnell Urban Garden</name>
+<description>677 Fairburn Road Northwest Atlanta 30331</description>
+<Point><coordinates>-84.49941254,33.77385013,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Flatshoals rd. 30349 Community Garden Inc.</name>
+<description>3190 Flat Shoals Road College Park 30349</description>
+<Point><coordinates>-84.49343879,33.58041295,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Oakland City Community Garden</name>
+<description>1401 Bridges Avenue Atlanta 30310</description>
+<Point><coordinates>-84.43361937,33.7266524,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PublikTransit Gardens</name>
+<description>2269 Ousley Court Decatur 30032</description>
+<Point><coordinates>-84.28108406,33.72373017,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Terrafirma Community Garden</name>
+<description>342 Windy Hill Road marietta 30060</description>
+<Point><coordinates>-84.54904163,33.89459079,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>BLACKSHEAR COMMUNITY GARDEN</name>
+<description>14 Meldon Ave Southeast Atlanta 30315</description>
+<Point><coordinates>-84.38255408,33.71114383,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Cosby Spear Community Garden</name>
+<description>355 North Avenue Atlanta 30308</description>
+<Point><coordinates>-84.39871082,33.66654559,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>EAST LAKE TOWERS COMMUNITY GARDEN</name>
+<description>380 East Lake Blvd Southeast Atlanta 30317</description>
+<Point><coordinates>-84.3146441,33.74136239,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Forrest Hills Community Garden</name>
+<description>1004 Columbia Drive Decatur 30030</description>
+<Point><coordinates>-84.2731163,33.75801263,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HIGHTOWER MANOR COMMUNITY GARDEN</name>
+<description>2610 Martin Luther King JR Drive Southwest ATLANA 30311</description>
+<Point><coordinates>-84.47282687,33.7520218,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Grove Park Community Garden</name>
+<description>150 Francis Place Northwest Atlanta 30318</description>
+<Point><coordinates>-84.443612,33.78768,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>mulberry fields community garden</name>
+<description>1301 iverson street atlanta 30307</description>
+<Point><coordinates>-84.3444846,33.76294612,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Nuleaf Community Garden</name>
+<description>1150 Niles Avenue Northwest Atlanta 30318</description>
+<Point><coordinates>-84.42476372,33.78192371,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Poncey Highland Community Garden</name>
+<description>698 Freedom Parkway Northeast Atlanta 30306</description>
+<Point><coordinates>-84.35962238,33.77112535,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Reynoldstown Community Garden</name>
+<description>72 Weatherby Street Southeast Atlanta 30316</description>
+<Point><coordinates>-84.35366899,33.75167138,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Ashe Farms</name>
+<description>1856 harbin road Atlanta 30311</description>
+<Point><coordinates>-84.48063994,33.70494895,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Cabbagetown Community Garden</name>
+<description>162 Berean Avenue Atlanta 30316</description>
+<Point><coordinates>-84.36660842,33.74983819,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>East Atlanta Village Learning Garden</name>
+<description>561 Flat Shoals Avenue Southeast Atlanta 30316</description>
+<Point><coordinates>-84.34403756,33.73898031,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Grant Park Community Garden</name>
+<description>970 Grant Street Southeast Atlanta 30315</description>
+<Point><coordinates>-84.37644146,33.72786325,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Historic Westside Gardens</name>
+<description>280 Elm Street Atlanta 30314</description>
+<Point><coordinates>-84.40920335,33.76233065,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Parkview Community Garden</name>
+<description>353 Wilkinson Drive Southeast Atlanta 30316</description>
+<Point><coordinates>-84.32842218,33.74354455,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>San Pedro Community Garden at Westview</name>
+<description>1540 Olympian Circle Southwest Atlanta 30310</description>
+<Point><coordinates>-84.4382987,33.73536618,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Arcadia Community Garden</name>
+<description>737 Arcadia Drive Decatur 30030</description>
+<Point><coordinates>-84.27942404,33.77331386,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Jolly Avenue Community Garden</name>
+<description>725 Jolly Avenue South Clarkston 30021</description>
+<Point><coordinates>-84.24144291,33.79951478,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>One Accord Community Garden</name>
+<description>5285 Flat Shoals Parkway Decatur 30034</description>
+<Point><coordinates>-84.21268471,33.68409539,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Smyrna Community Garden</name>
+<description>4201 North Cooper Lake Road Smyrna 30082</description>
+<Point><coordinates>-84.53909648,33.85209034,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Westview Community Garden</name>
+<description>1439 S Gordon Street Southwest Atlanta 30310</description>
+<Point><coordinates>-84.43502585,33.73955882,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Marietta Road Highrise</name>
+<description>2295 Marietta Road Northwest Atlanta 30318</description>
+<Point><coordinates>-84.46065287,33.81825972,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Mother Clyde Community Garden</name>
+<description>555 Hopkins street southwest Atlanta 30310</description>
+<Point><coordinates>-84.43111017,33.73995738,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Pine Shoals Community Garden</name>
+<description>781 Rock Shoals Court College Park 30349</description>
+<Point><coordinates>-84.41535238,33.5998383,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>URBAN GARDEN RESILIENCY OASIS</name>
+<description>1094 LOMA LINDA Drive Southwest ATLANTA 30310</description>
+<Point><coordinates>-84.43256984,33.72657625,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Peachtree Hills Community Garden</name>
+<description>308 Peachtree Hills Avenue Northeast Atlanta 30305</description>
+<Point><coordinates>-84.3760601,33.81798937,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Harvest Farm Communitty Garden</name>
+<description>752 White Street Suwanee 30024</description>
+<Point><coordinates>-84.07872717,34.04592322,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Cider City Garden &amp; firewood Co Op</name>
+<description>2052 Dover Hill Place Chamblee 30345</description>
+<Point><coordinates>-84.30470655,33.85770657,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Parkview Neighborhood Community Garden</name>
+<description>4875 Lilburn Stone Mountain Road Lilburn 30047</description>
+<Point><coordinates>-84.13028327,33.87209019,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PAHLs Healthy Belvedere Community Garden</name>
+<description>1679 Columbia Drive Decatur 30032</description>
+<Point><coordinates>-84.2553335,33.74204489,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Clarkston Community Garden</name>
+<description>3401 College Avenue Clarkston 30021</description>
+<Point><coordinates>-84.236301,33.805596,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Crawford Long Garden</name>
+<description>3200 Latona Drive Southwest Atlanta 30354</description>
+<Point><coordinates>-84.39513015,33.66646612,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Decatur&#39;s Kitchen Garden</name>
+<description>500 S Columbia Drive Decatur 30030</description>
+<Point><coordinates>-84.28222592,33.7668428,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Green Earth Permaculture Farming</name>
+<description>1850 Newborn Road Rutledge 30663</description>
+<Point><coordinates>-83.62026771,33.60526781,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Mason&#39;s LaVista comunity garden</name>
+<description>2998 LaVista Road Decatur 30033</description>
+<Point><coordinates>-84.28420222,33.82547678,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>North DeKalb Mall Community Garden</name>
+<description>1850 Orion Drive Decatur 30033</description>
+<Point><coordinates>-84.281903,33.817078,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Emory University Hospital</name>
+<description>1455 Monteal Road Tucker 30084</description>
+<Point><coordinates>-84.226117,33.848103,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Henderson Park Community Garden</name>
+<description>2723 Henderson Road Tucker 30084</description>
+<Point><coordinates>-84.23203881,33.86316552,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Hillside PCUSA  (Food Pantry Garden)</name>
+<description>1879 Columbia Drive Decatur 30032</description>
+<Point><coordinates>-84.252003,33.73674455,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Lou Walker Senior Center Garden Club</name>
+<description>2538 Panola Road Lithonia 30058</description>
+<Point><coordinates>-84.16548324,33.71479093,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sugar Creek Garden</name>
+<description>415 East Lake Drive Decatur 30030</description>
+<Point><coordinates>-84.30915079,33.75959695,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>The fruits of your Labor Community Garden</name>
+<description>2687 Klondike Road Lithonia 30058</description>
+<Point><coordinates>-84.10907585,33.7060497,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Applewood Towers II</name>
+<description>150 Applewood Drive Lawrenceville 30046</description>
+<Point><coordinates>-83.960938,33.94069,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Plant A Row For the Hungry project of Master Gardener Volunteers of Cobb County</name>
+<description>3007 Cherokee Street Kennesaw 30144</description>
+<Point><coordinates>-84.60998661,34.02654391,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CrossRoads Community Garden</name>
+<description>2663 Johnson Ferry Road Marietta 30062</description>
+<Point><coordinates>-84.43133219,34.01388271,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Due West Elementary Outdoor Learning Garden</name>
+<description>3900 Due West Road Marietta 30064</description>
+<Point><coordinates>-84.66647076,33.96871472,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>North Marietta Neighborhood Community Garden</name>
+<description>461 Allgood Road Marietta 30060</description>
+<Point><coordinates>-84.53923622,33.96264782,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>First Existentialist Community Garden</name>
+<description>470 Candler Park Drive Atlanta 30307</description>
+<Point><coordinates>-84.33947398,33.7669783,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Project Generation Gap @The High Garden Center</name>
+<description>4108 Anderson Livesy Lane Snellville 30039</description>
+<Point><coordinates>-84.04485968,33.78108841,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Atwood Community Gardens @ Kittredge Park Nature Preserve</name>
+<description>1520 Kittredge Park Road Atlanta 30329</description>
+<Point><coordinates>-84.32727967,33.82658364,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Clarkston International Garden</name>
+<description>3790 Market Street Clarkston 30021</description>
+<Point><coordinates>-84.2362362,33.80752509,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Umurima Wa Burundi</name>
+<description>121 Sams Street Decatur 30030</description>
+<Point><coordinates>-84.28284586,33.77392619,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Rootz of Change</name>
+<description>1634 South Hairston Road Stone mountain 30088</description>
+<Point><coordinates>-84.1961775,33.74587998,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Meadowbrook Acres</name>
+<description>3164 Bobbie Lane  Decatur 30032</description>
+<Point><coordinates>-84.26016858,33.75892031,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Back to Eden/ Berean SDA School Garden</name>
+<description>401 Hamilton Holmes Drive Northwest Atlanta 30318</description>
+<Point><coordinates>-84.46997635,33.76627502,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Austin Drive Garden</name>
+<description>1989 Austin Drive Decatur 30032</description>
+<Point><coordinates>-84.23435889,33.73448626,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Greater Piney Grove Community Farm</name>
+<description>1879 Glenwood Ave Southeast Atlanta 30316</description>
+<Point><coordinates>-84.32656516,33.73971732,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Hairston Lake</name>
+<description>1023 North Hairston Road Stone Mountain 30083</description>
+<Point><coordinates>-84.19357253,33.80578212,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>South Fulton Community Garden</name>
+<description>5645 Mason Road College Park 30349</description>
+<Point><coordinates>-84.54615211,33.60241609,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>The Veranda at Carver</name>
+<description>217 Thirkeld Avenue Atlanta 30315</description>
+<Point><coordinates>-84.39284361,33.71442306,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Blackburn Park Garden</name>
+<description>3566 Roberts Way Brookhaven 30319</description>
+<Point><coordinates>-84.32603012,33.89521337,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Capital View Garden</name>
+<description>1474 Athens Avenue Southwest Atlanta 30310</description>
+<Point><coordinates>-84.40865699,33.71458466,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Community Garden of Morrow</name>
+<description>5893 Northlake Drive Morrow 30260</description>
+<Point><coordinates>-84.328154,33.583733,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Due West Elementary Outdoor Learning Garden</name>
+<description>3600 Due West Road Marietta 30064</description>
+<Point><coordinates>-84.65754118,33.95944557,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Elm Street Urban Farm</name>
+<description>382 Elm Street Northwest Atlanta 30314</description>
+<Point><coordinates>-84.40893763,33.76505748,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Favor Garden</name>
+<description>1926 John Calvin Avenue College Park 30337</description>
+<Point><coordinates>-84.4523472,33.65781676,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Historic Kennesaw Community Garden</name>
+<description>3007 Cherokee Street Kennesaw 30144</description>
+<Point><coordinates>-84.60998661,34.02654391,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Lanier Community Garden</name>
+<description>2547 Buford Dam Road Buford 30518</description>
+<Point><coordinates>-84.00484399,34.14391655,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Lilburn Community Garden</name>
+<description>76 Main Street Lilburn 30047</description>
+<Point><coordinates>-84.13463077,33.88605709,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Little Nancy Creek Park Community Garden</name>
+<description>4012 Peachtree Dunwoody Road Atlanta 30319</description>
+<Point><coordinates>-84.35901576,33.86452507,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Norcross Community Garden</name>
+<description>10 College Street Northwest Norcross 30071</description>
+<Point><coordinates>-84.21154854,33.94209181,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Unity Garden</name>
+<description>9135 Willeo Road Roswell 30075</description>
+<Point><coordinates>-84.38032024,34.00237184,0</coordinates></Point>
+</Placemark>
+</Document>
+</kml>
