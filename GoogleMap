@@ -22,6 +22,12 @@ var ctaLayer = new google.maps.KmlLayer({
     url: 'https://ellen-macht.squarespace.com/s/convertcsv.kml',
     map: map
   });
+  
+  google.maps.event.addListener(kmlLayer, 'click', function(event) {
+  var content = event.featureData.infoWindowHtml;
+  var testimonial = document.getElementById('capture');
+  testimonial.innerHTML = content;
+});
 
 marker.setMap(map);
 }
