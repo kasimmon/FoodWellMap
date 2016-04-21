@@ -19,7 +19,7 @@ var mapProp = {
 var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
 
 var ctaLayer = new google.maps.KmlLayer({
-    url: 'https://github.com/kasimmon/FoodWellMap/blob/master/KML',
+    url: 'https://ellen-macht.squarespace.com/s/convertcsv.kml',
     map: map
   });
 
